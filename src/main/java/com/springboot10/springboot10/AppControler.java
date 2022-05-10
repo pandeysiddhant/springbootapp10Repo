@@ -11,7 +11,7 @@ public class AppControler {
     @GetMapping("/")
     public String sayHello(){
 
-        return "Hello this my spring boot app";
+        return "Hello this my spring boot app ,10/05/22";
     }
     
 }
